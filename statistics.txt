@@ -1,0 +1,74 @@
+231 words and 1133 chars in article id 0
+445 words and 2236 chars in article id 1
+670 words and 3171 chars in article id 2
+226 words and 1150 chars in article id 20
+226 words and 1148 chars in article id 21
+257 words and 1320 chars in article id 3
+197 words and 983 chars in article id 4
+462 words and 2194 chars in article id 5
+483 words and 2472 chars in article id 6
+599 words and 3232 chars in article id 7
+198 words and 974 chars in article id 8
+167 words and 956 chars in article id 9
+485 words and 2469 chars in article id 10
+67 words and 315 chars in article id 11
+126 words and 670 chars in article id 12
+186 words and 930 chars in article id 13
+192 words and 1000 chars in article id 14
+261 words and 1328 chars in article id 15
+389 words and 1951 chars in article id 16
+345 words and 1765 chars in article id 17
+224 words and 1094 chars in article id 18
+107 words and 563 chars in article id 19
+6543 words and 33054 chars in category 1 with 22 articles
+moy words :297 moy chars :1502
+
+429 words and 2266 chars in article id 0
+762 words and 3796 chars in article id 1
+424 words and 2101 chars in article id 2
+564 words and 2814 chars in article id 3
+702 words and 3688 chars in article id 4
+748 words and 3851 chars in article id 5
+529 words and 2739 chars in article id 6
+619 words and 3018 chars in article id 7
+923 words and 4442 chars in article id 8
+1437 words and 7061 chars in article id 9
+751 words and 3788 chars in article id 10
+593 words and 2998 chars in article id 11
+629 words and 3524 chars in article id 12
+993 words and 5105 chars in article id 13
+1444 words and 7246 chars in article id 14
+1473 words and 7231 chars in article id 15
+321 words and 1622 chars in article id 16
+492 words and 2504 chars in article id 17
+447 words and 2272 chars in article id 18
+694 words and 3513 chars in article id 19
+14974 words and 75579 chars in category 2 with 20 articles
+moy words :748 moy chars :3778
+
+768 words and 4240 chars in article id 0
+259 words and 1325 chars in article id 1
+192 words and 1011 chars in article id 2
+215 words and 1117 chars in article id 3
+148 words and 777 chars in article id 4
+532 words and 2659 chars in article id 5
+589 words and 2956 chars in article id 20
+1388 words and 6954 chars in article id 6
+230 words and 1224 chars in article id 7
+307 words and 1468 chars in article id 8
+401 words and 2042 chars in article id 9
+266 words and 1324 chars in article id 10
+245 words and 1234 chars in article id 11
+527 words and 2823 chars in article id 12
+543 words and 2837 chars in article id 13
+229 words and 1131 chars in article id 14
+734 words and 3722 chars in article id 15
+448 words and 2274 chars in article id 16
+219 words and 1143 chars in article id 17
+142 words and 715 chars in article id 18
+99 words and 511 chars in article id 19
+8481 words and 43487 chars in category 3 with 21 articles
+moy words :403 moy chars :2070
+
+total words :29998
+total articles :63

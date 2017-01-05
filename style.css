@@ -1,0 +1,399 @@
+/* WARNING: don't edit after this line! */
+
+/* echoroukonline.com */
+
+/*** Global list styles ***/
+
+ul { padding: 0; margin: 0;}
+
+ul li { list-style-type: none;}
+
+
+/*** Article styles ***/
+
+#article_holder {margin:10px;}
+
+/*--------------------------------------------------------------*/
+#article_holder h1 { font-family: Arial, Times, serif; font-weight: bold; font-size: 24px; color: #02205c; padding: 8px 5px 4px 0px; margin-bottom: 2px;}
+#article_holder h2 { font-size: 18px; color: #b2371f; padding-top: 15px; background: #ffffff;}
+#article_holder h3 {color: #008C69; font-family: Arial, Times, serif; font-size: 20px; font-weight: bold;padding-bottom: 4px; margin-bottom: 10px;}
+#article_holder h4 {color: #008C69; font-family: Arial, Times, serif; font-size: 20px; font-weight: bold;padding-bottom: 4px; margin-bottom: 10px;}
+#article_holder h5 {color: #000000; font-family: Arial, Times, serif; font-size: 16px; font-weight: bold;padding-bottom: 4px; margin-bottom: 10px;}
+
+#article_holder div.article_metadata { padding: 0px 0px 28px 0px; margin-bottom: 4px; border-bottom: 1px solid #cc3300;}
+
+#article_holder div.article_metadata span.metadata_time { margin-top: 16px; font-size: 10px; color: #000000; float: left;}
+
+#article_holder div.font_size { font-size: 11px; text-align: left; margin-bottom: 12px;}
+
+#article_holder div.font_size img { vertical-align: bottom; padding-right: 3px;}
+
+#article_holder div.article_auth { font-size: 18px; font-weight: bold; color: #02205c; text-align: right; margin-bottom: 3px; margin-left: 6px; margin-top: 5px; float: right; font-weight: bold;	font-family: "Traditional Arabic";}
+
+#article_holder div.image {
+	float: right; 
+	padding: 4px; 
+	margin-left: 6px;
+	border: 1px solid #ff8383;
+}
+
+#article_holder div.image span.image_caption {/*ont-size: 11px; line-height:normal;*/}
+
+#article_holder div#article_body { 
+	line-height: 1.6em; width: 100%; /*overflow: hidden;*/ margin-bottom: 12px;
+	color: #000000; 
+	font-size: 16px;
+	font-family: Arial, "Simplified Arabic"; margin: 0px;
+	font-weight: bold;
+}
+
+/*--------------------------------------------------------------*/
+
+#article_holder div#article_body a { color: #002BB8;}
+
+#article_holder div.content_attachment { 
+	text-align:center; 
+	color: #002BB8;
+	padding:6px; 
+	font-size: 20px;
+	font-family: Arial, "Simplified Arabic"; margin: 0px;
+	font-weight: bold;
+	border: 1px solid #E83131;
+}
+
+#article_holder div.content_attachment img { vertical-align: bottom;}
+
+#article_holder div.content_attachment a {color: #C90404;}
+
+/* echoroukonline.com */
+
+/* alarabiya.net */
+
+ img.BlackBorder{margin:5px 0 5px 0;border:1px solid #000;}
+.G_T{color:#556;font:8pt Tahoma;font-weight:normal;text-decoration:none;margin:0 1px 0 0;line-height:15px;direction:rtl;}
+.R_G{color:#B00;font:19pt Traditional Arabic;font-weight:bold;text-align:normal;margin:0 1px 0 0;line-height:30px;direction:rtl;text-decoration:none;}
+.B_G{color:#0060AA;font:19pt Traditional Arabic;font-weight:bold;text-align:normal;margin:0 1px 0 0;line-height:30px;direction:rtl;text-decoration:none;}
+.B_T{color:#0060AA;font:8pt Tahoma;font-weight:normal;text-decoration:none;margin:0 1px 0 0;line-height:15px;direction:rtl;}
+.K_G{color:#000;font:19pt Traditional Arabic;font-weight:bold;text-decoration:none;text-align:Right;margin:0 1px 0 0;line-height:22px;direction:rtl;}
+.R_S{color:#B00;font:11pt Times New Roman;font-weight:Bold;text-align:normal;margin:0 1px 0 0;line-height:20px;direction:rtl;}
+.RK_S{color:#B00;font:11pt Arabic Transparent;font-weight:bold;text-decoration:none;text-align:normal;margin:0 1px 0 0;line-height:20px;direction:rtl;}
+.RK_S:hover{color:#000;text-decoration:none;}
+.BK_M{color:#0060AA;font:13pt Traditional Arabic;font-weight:bold;text-align:normal;margin:0 1px 0 0;line-height:25px;direction:rtl;text-decoration:none;}
+.BK_M:hover{color:#000;text-decoration:none;}
+.G_M_ndt{color:#445;font:12pt Arabic Transparent;font-weight:bold;text-decoration:none;text-align:Right;margin:0 10px 0 0;line-height:23px;direction:rtl;}
+
+/* alarabiya.net */
+
+/* reuters.com */
+
+a {
+    color: #005A84;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+body {
+    margin: 0px;
+    font-family: arial,helvetica,sans;
+    font-size: 13px;
+    line-height: 1.2;
+    /*background-color: #F5F5F5;
+    position: relative;*/
+}
+
+ .contentBand {
+    float: right;
+    /*width: 808px;
+    margin-bottom: 0px;*/
+}
+
+.contentBand:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+* html .contentBand { clear: left; }
+
+.article h1 {
+    margin: 20px 0px 6px -1px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #464646;
+    line-height: 1.0;
+    border: none;
+}
+
+.article .timestamp, .article .timestampHeader {
+    font-size: 11px;
+    color: #555;
+    margin-bottom: 0px;
+}
+.article .timestampHeader {
+    float:left;
+    padding-left:1px;
+}
+
+div.article div.timestampHeader {
+    width: 100%;
+    text-align: right;
+    padding: 0;
+    border-bottom: 1px solid #CCC;
+    padding-bottom: 6px;
+}
+
+.primaryContent {
+    float: left;
+    width: 100%;
+    overflow: hidden;
+    margin-right: 10px;
+    margin-left: 10px; /* TEST */
+}
+
+.primaryContent .module {
+    margin-bottom: 6px;
+}
+
+.primaryContent {
+    width: auto;
+}
+
+div.primaryContent {
+    float: right;
+}
+
+#articlePhoto {
+    float: left;
+    background: #F0F0F0;
+    border-top: 15px solid #F0F0F0;
+    border-bottom: 15px solid #F0F0F0;
+    margin-right: 10px;
+}
+
+div#resizeableText {
+    margin-top: 12px;
+}
+
+div#resizeableText p {
+    font-family: verdana, helvetica,sans;
+    margin: 0 0 1em 0;
+    padding: 0;
+}
+
+div#resizeableText div.module p,
+div#resizeableText span.inlineLinks {
+    font-family: arial,helvetica,sans;
+}
+
+/* reuters.com */
+
+/* elkhabar.com */
+
+p {
+    font-family: Traditional arabic, sans-serif;
+    color: #575757;
+    line-height: normal;
+}
+td {
+    font-family: Traditional arabic, sans-serif;
+    color: #575757;
+    line-height: normal;
+}
+
+/* elkhabar.com */
+
+/* news.cn */
+
+body{ margin:0px; padding:0px; }    
+
+.f-title { font-family:Arial, Helvetica, sans-serif; }
+h1 {font-size:24px; color:#2251A8; }
+.artTxt {
+    clear:both;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.55;
+    padding-bottom:5px;
+    padding-top: 20px;
+    text-align: right;
+}
+.artTxt p {
+    margin:0 0 15px 0;
+}
+.artTxt A:link {
+FONT-SIZE: 11pt; COLOR: navy; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none; FONT-WEIGHT: normal; 
+}
+.artTxt A:visited {
+FONT-SIZE: 11pt; COLOR: navy; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none;FONT-WEIGHT: normal; 
+}
+
+.artTxt strong {
+    font-weight:bold;
+}
+.artTxt em {
+    font-style:italic;
+}
+.artTxt p.see {
+    margin:0 0 10px 0;
+    clear:left;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* news.cn */
+
+/* bbc.co.uk */
+
+/* =Story
+-----------------------------*/
+.story-body h1,.av-body h1 {
+font-weight:bold;
+font-size:1.58em;
+line-height:1.18;
+margin-bottom:1em;
+color:#333333;
+}
+
+.story-body, .av-body {
+  padding:0 80px;
+}
+.ie6 .story-body, 
+.ie6 .av-body {
+  width: 466px;
+  overflow: hidden;
+}
+
+.bodytext .module-emp448 {
+margin-left:auto;
+margin-right:0;
+}
+.bodytext p {
+font-size:1.06em;
+line-height:1.59;
+margin-bottom:1.59em;
+}
+.bodytext p.ingress {
+font-weight:bold;
+font-size:1.06em;
+line-height:1.29;
+color:#333333;
+}
+/* Body text */
+.bodytext h2 {
+font-size:1.19em;
+line-height:1.42;
+color:#333;
+}
+.bodytext h2.strapline {
+background-color:#E1E1E1;
+padding-right:5px;
+margin-bottom:0.94em;
+color:#666666;
+}
+.bodytext .title {
+    color:#666;
+}
+.story-body, .av-body {
+  padding:0 80px;
+}
+.ie6 .story-body, 
+.ie6 .av-body {
+  width: 466px;
+  overflow: hidden;
+}
+.image p.caption {
+font-size:0.94em;
+line-height:1.33;
+}
+.bodytext ul {
+margin-bottom:1.59em;
+}
+.bodytext li {
+line-height:1.59;
+}
+.bodytext .box div {
+font-size:1em;
+line-height:1.59;
+}
+
+/* =Schedules
+-----------------------------*/
+.genre-tvandradio .bodytext .module {
+width:450px;
+margin-right:0;
+float:right;
+}
+
+/* =Text
+-----------------------------*/
+p, blockquote, .bodytext {
+    font-size: 1em;
+    line-height: 1.31;
+}
+
+/* bbc.co.uk */
+
+/* bbc.co.uk/hi */
+
+/* -------------- GENERAL -------------- */
+body {font-family: "Simplified Arabic", "Arabic Transparent", "Traditional Arabic", "Arial (Arabic)", "Times New Roman (Arabic)", "AGA Arabesque", "NaskhTT", "Akhbar MT", "Courir New (Arabic)", "Decotype Naskh",  "Mudir MT",  "Simplified Arabic fixed", "Tahoma (Arabic)", "Andalus", "Monotype Koufi", "Decotype Naskh Extension", "Decotype Naskh Special", "Decotype Naskh Swashed", "Decotype Naskh Variants", "Decotype Naskh Thuluth", "Simplified Arabic backslanted", "Traditional Arabic Backslanted",  Arial,Helvetica,sans-serif;background-color:#FFFFFF;border:0px;margin:0px;font-size:15px;color:#000000;font-weight:bold;line-height:19px;}
+
+b {font-weight:bold;}
+p {font-family: "Simplified Arabic", "Arabic Transparent", "Traditional Arabic", "Arial (Arabic)", "Times New Roman (Arabic)", "AGA Arabesque", "NaskhTT", "Akhbar MT", "Courir New (Arabic)", "Decotype Naskh",  "Mudir MT",  "Simplified Arabic fixed", "Tahoma (Arabic)", "Andalus", "Monotype Koufi", "Decotype Naskh Extension", "Decotype Naskh Special", "Decotype Naskh Swashed", "Decotype Naskh Variants", "Decotype Naskh Thuluth", "Simplified Arabic backslanted", "Traditional Arabic Backslanted", Arial, Helvetica, sans-serif;font-weight:bold;text-align:right;direction:rtl;font-size:16px;line-height:21px;}
+
+.cap {font-size:13px;color:#666666}
+.storybody {margin:20px;}
+.mva {margin:5px;}
+
+/* -------------- STORY INLINE MODULES -------------- */
+td.sibt {font-size:13px;}
+/* COLOUR CHANGE */
+td.sibtbg{font-size:13px;background-color:#dfdfdf;}
+/* COLOUR CHANGE */
+.sih {font-weight:bold;font-size:13px;background-color:#465d7c;color:#FFFFFF;padding-right:5px;padding-top:2px;padding-bottom:2px;line-height:17px;}
+/* COLOUR CHANGE */
+.sibf {background-color:#dfdfdf}
+.cap {font-size:13px;color:#666666}
+.bys {font-size:13px;font-weight:bold;color:#000000}
+.byl {font-size:13px;font-weight:bold;color:#666666}
+.byd {font-size:13px;color:#000000}
+.msd {font-size:13px;font-weight:bold;color:#666666}
+
+/* -------------- STORY RHS MODULES -------------- */
+.sah {background-color:#465d7c;color:#FFFFFF;font-size:16px;font-weight:bold;padding-right:5px;padding-top:2px;padding-bottom:2px;line-height:18px;}
+.sad {font-size:13px;color:#666666;}
+.snh {font-size:13px;font-weight:bold;background-color:#999999;color:#FFFFFF;padding-right:5px;padding-top:2px;padding-bottom:2px;line-height:17px;}
+.sng {background-color:#CCCCCC;}
+
+/* bbc.co.uk/hi */
+
+/* france24.com */
+
+body{margin:0;padding:10px;font-family:arial,sans-serif;}
+body a{text-decoration:none;color:#004488;}
+body{color:#333;}
+body a:hover{text-decoration:underline;}
+div#content-area{padding:15px;}
+/*div#content-area{text-align:right;}*/
+.article-header-title{font-family:Georgia,Times,"Times New Roman",serif;font-size:26px;padding-top:5px;line-height:120%;}
+div.articleStyle div.article-header-title{font-family:Georgia,Times,"Times New Roman",serif;font-size:22px;font-weight:normal;padding:0;margin-bottom:15px;}
+div.article-header-title{font-family:Arial,sans-serif !important;}
+.article-header-title{font-size:22px;margin-bottom:15px;padding:0;overflow:auto;font-family:Arial,sans-serif;}
+.article-header-title{font-size:28px;}
+.article-main-text,.article-header-intro,.article-intro-contenu{font-size:14px;font-weight:normal;padding:0;line-height:1.6em;}
+.article-header-intro{float:left;margin-bottom:20px;font-size:16px;}
+.article-main-text,.article-header-intro,.article-intro-contenu{font-size:18px;}
+.article-header-intro-credits{margin-top:20px;}
+.blaster{clear:both;height:0;font-size:1px;line-height:0;margin:0;padding:0;}
+.blaster{clear:both;margin:0;padding:0;font-size:1px;line-height:0px;height:0px;}
+.article-main-text{font-size:18px;line-height:140%;}
+div.dossier div.article-main-text{padding-bottom:15px;border-bottom:1px solid #E0E0E0;}
+.rteright{text-align:right;}
+
+/* france24.com */

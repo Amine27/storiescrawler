@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seeds>
+    
+    <site name="الشروق اليومي" url="http://www.echoroukonline.com/">
+        <category name="الوطني" id="0" path="echoroukonline/national">
+            <url>http://www.echoroukonline.com/ara/feed/national/index.1.rss</url>
+        </category>
+        <category name="الإقتصاد" id="1" path="echoroukonline/economie">
+            <url>http://www.echoroukonline.com/ara/feed/economie/index.1.rss</url>
+        </category>
+        <category name="الرياضة" id="2" path="echoroukonline/sports">
+            <url>http://www.echoroukonline.com/ara/feed/sports/index.1.rss</url>
+        </category>
+        <category name="الدولي" id="3" path="echoroukonline/international">
+            <url>http://www.echoroukonline.com/ara/feed/international/index.1.rss</url>
+        </category>
+        <category name="الفني" id="4" path="echoroukonline/arts">
+            <url>http://www.echoroukonline.com/ara/feed/arts/index.1.rss</url>
+        </category>
+        <category name="ثقافة" id="5" path="echoroukonline/culture">
+            <url>http://www.echoroukonline.com/ara/feed/culture/index.1.rss</url>
+        </category>
+        <category name="قضايا المجتمع" id="6" path="echoroukonline/social">
+            <url>http://www.echoroukonline.com/ara/feed/social/index.1.rss</url>
+        </category>
+        <category name="أوراق حضارية" id="7" path="echoroukonline/din_wa_donia">
+            <url>http://www.echoroukonline.com/ara/feed/din_wa_donia/index.1.rss</url>
+        </category>
+    </site>
+    
+    <site name="الخبر" url="http://www.elkhabar.com/">
+        <category name="سياسة" id="8" path="elkhabar/politique">
+            <url>http://www.elkhabar.com/quotidien/?idc=30&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="اقتصاد" id="9" path="elkhabar/economie">
+            <url>http://www.elkhabar.com/quotidien/?idc=49&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="أخبار الوطن" id="10" path="elkhabar/national">
+            <url>http://www.elkhabar.com/quotidien/?idc=55&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="العالم" id="11" path="elkhabar/international">
+            <url>http://www.elkhabar.com/quotidien/?idc=31&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="الجزائر العميقة" id="12" path="elkhabar/algerie">
+            <url>http://www.elkhabar.com/quotidien/?idc=34&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="رياضة" id="13" path="elkhabar/sports">
+            <url>http://www.elkhabar.com/quotidien/?idc=33&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="أحوال الناس" id="14" path="elkhabar/social">
+            <url>http://www.elkhabar.com/quotidien/?idc=36&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="تقافة" id="15" path="elkhabar/culture">
+            <url>http://www.elkhabar.com/quotidien/?idc=32&amp;key=0&amp;date_insert=</url>
+        </category>
+    </site>
+    
+    <site name="قناة العربية" url="http://www.alarabiya.net/">
+        <category name="الأخبار" id="16" path="alarabiya/News">
+            <url>http://www.alarabiya.net/archive.php?offset=0&amp;content_type=Articles&amp;web_sec_code=News</url>
+        </category>
+        <category name="السياسة" id="17" path="alarabiya/Politics">
+            <url>http://www.alarabiya.net/archive.php?offset=0&amp;content_type=Articles&amp;web_sec_code=Politics</url>
+        </category>
+        <category name="الرياضة" id="18" path="alarabiya/Sports">
+            <url>http://www.alarabiya.net/archive.php?offset=0&amp;content_type=Articles&amp;web_sec_code=Sports</url>
+        </category>
+    </site>
+
+</seeds>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seeds>
+
+    <site name="reuters - fr" url="http://fr.reuters.com/">
+        <category name="À la une" id="0" path="reuters-fr/topNews">
+            <url>http://fr.reuters.com/news/archive/topNews?date=</url>
+        </category>
+        <category name="Économie" id="1" path="reuters-fr/businessNews">
+            <url>http://fr.reuters.com/news/archive/businessNews?date=</url>
+        </category>
+        <category name="Sport" id="2" path="reuters-fr/sportsNews">
+            <url>http://fr.reuters.com/news/archive/sportsNews?date=</url>
+        </category>
+        <category name="Technologie" id="3" path="reuters-fr/technologyNews">
+            <url>http://fr.reuters.com/news/archive/technologyNews?date=</url>
+        </category>
+        <category name="Insolite" id="4" path="reuters-fr/oddlyEnoughNews">
+            <url>http://fr.reuters.com/news/archive/oddlyEnoughNews?date=</url>
+        </category>
+    </site>
+    
+    <site name="reuters - en" url="http://www.reuters.com/">
+        <category name="Top News" id="5" path="reuters-en/topNews">
+            <url>http://www.reuters.com/news/archive/newsOne?date=</url>
+        </category>
+        <category name="Business" id="6" path="reuters-en/businessNews">
+            <url>http://www.reuters.com/news/archive/ousivMolt?date=</url>
+        </category>
+        <category name="World" id="7" path="reuters-en/worldNews">
+            <url>http://www.reuters.com/news/archive/worldNews?date=</url>
+        </category>
+        <category name="Politics" id="8" path="reuters-en/politicsNews">
+            <url>http://www.reuters.com/news/archive/politicsNews?date=</url>
+        </category>
+        <category name="Sports" id="9" path="reuters-en/sportsNews">
+            <url>http://www.reuters.com/news/archive/sportsNews?date=</url>
+        </category>
+        <category name="Technology" id="10" path="reuters-en/technologyNews">
+            <url>http://www.reuters.com/news/archive/technologyNews?date=</url>
+        </category>
+        <category name="Deals" id="11" path="reuters-en/innovationNews">
+            <url>http://www.reuters.com/news/archive/innovationNews?date=</url>
+        </category>
+        <category name="Health" id="12" path="reuters-en/healthNews">
+            <url>http://www.reuters.com/news/archive/healthNews?date=</url>
+        </category>
+        <category name="Science" id="13" path="reuters-en/scienceNews">
+            <url>http://www.reuters.com/news/archive/scienceNews?date=</url>
+        </category>
+        <category name="Entertainment" id="14" path="reuters-en/entertainmentNews">
+            <url>http://www.reuters.com/news/archive/entertainmentNews?date=</url>
+        </category>
+        <category name="Deals" id="15" path="reuters-en/innovationNews">
+            <url>http://www.reuters.com/news/archive/innovationNews?date=</url>
+        </category>
+    </site>
+    
+    <site name="reuters - ara" url="http://ara.reuters.com/">
+        <category name="الشرق الأوسط" id="16" path="reuters-ara/topNews">
+            <url>http://ara.reuters.com/news/archive/topNews?date=</url>
+        </category>
+        <category name="الاقتصاد" id="17" path="reuters-ara/businessNews">
+            <url>http://ara.reuters.com/news/archive/businessNews?date=</url>
+        </category>
+        <category name="العالم" id="18" path="reuters-ara/worldNews">
+            <url>http://ara.reuters.com/news/archive/worldNews?date=</url>
+        </category>
+        <category name="الرياضة" id="19" path="reuters-ara/sportsNews">
+            <url>http://ara.reuters.com/news/archive/sportsNews?date=</url>
+        </category>
+        <category name="منوعات" id="20" path="reuters-ara/entertainmentNews">
+            <url>http://ara.reuters.com/news/archive/entertainmentNews?date=</url>
+        </category>
+        <category name="العلوم والبيئة" id="21" path="reuters-ara/internetNews">
+            <url>http://ara.reuters.com/news/archive/internetNews?date=</url>
+        </category>
+    </site>
+    
+
+</seeds>

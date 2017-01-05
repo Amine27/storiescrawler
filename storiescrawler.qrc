@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/application-exit.png</file>
+        <file>resources/go-bottom.png</file>
+        <file>resources/go-down.png</file>
+        <file>resources/process-stop.png</file>
+        <file>resources/arrow-down.png</file>
+        <file>resources/arrow-down-double.png</file>
+        <file>resources/view-statistics.png</file>
+        <file>resources/text-html.png</file>
+        <file>resources/qt.png</file>
+        <file>resources/echoroukonline.png</file>
+        <file>resources/alarabiya.png</file>
+        <file>resources/go-next.png</file>
+        <file>resources/go-previous.png</file>
+        <file>resources/go-up.png</file>
+        <file>resources/window-new.png</file>
+        <file>resources/edit-copy.png</file>
+        <file>resources/reuters.png</file>
+        <file>resources/elkhabar.png</file>
+        <file>resources/edit-find.png</file>
+        <file>resources/go-up-search.png</file>
+        <file>resources/go-down-search.png</file>
+        <file>resources/dialog-close.png</file>
+        <file>resources/document-open.png</file>
+        <file>resources/edit-find-project.png</file>
+        <file>resources/news.png</file>
+        <file>resources/france24.png</file>
+        <file>resources/bbc.png</file>
+        <file>resources/edit-delete.png</file>
+        <file>resources/document-open-folder.png</file>
+        <file>resources/configure.png</file>
+        <file>resources/dialog-cancel.png</file>
+        <file>resources/dialog-ok.png</file>
+        <file>resources/document-save-as.png</file>
+        <file>resources/storiescrawler.png</file>
+        <file>translations/storiescrawler_en.qm</file>
+    </qresource>
+</RCC>

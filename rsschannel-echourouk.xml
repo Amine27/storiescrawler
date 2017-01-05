@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rsschannel>
+	<site name="الشروق اليومي">
+	    <category name="الوطني" id="0">
+	        <url>http://www.echoroukonline.com/ara/feed/national/index.1.rss</url>
+	    </category>
+	    <category name="محليات" id="1">
+	        <url>http://www.echoroukonline.com/ara/feed/regions/index.1.rss</url>
+	    </category>
+		<category name="الإقتصاد" id="2">
+	        <url>http://www.echoroukonline.com/ara/feed/economie/index.1.rss</url>
+	    </category>
+		<category name="الرياضة" id="3">
+	        <url>http://www.echoroukonline.com/ara/feed/sports/index.1.rss</url>
+	    </category>
+		<category name="الدولي" id="4">
+	        <url>http://www.echoroukonline.com/ara/feed/international/index.1.rss</url>
+	    </category>
+		<category name="منوعات" id="5">
+	        <url>http://www.echoroukonline.com/ara/feed/divers/index.1.rss</url>
+	    </category>
+		<category name="الفني" id="6">
+	        <url>http://www.echoroukonline.com/ara/feed/arts/index.1.rss</url>
+	    </category>
+		<category name="ثقافة" id="7">
+	        <url>http://www.echoroukonline.com/ara/feed/divers/culture/index.1.rss</url>
+	    </category>
+		<category name="قضايا المجتمع" id="8">
+	        <url>http://www.echoroukonline.com/ara/feed/divers/social/index.1.rss</url>
+	    </category>
+		<category name="الإفتتاحية" id="9">
+	        <url>http://www.echoroukonline.com/ara/feed/dossiers/editorial/index.1.rss</url>
+	    </category>
+		<category name="مراصد" id="10">
+	        <url>http://www.echoroukonline.com/ara/feed/brefs/index.1.rss</url>
+	    </category>
+		<category name="تحقيقات" id="11">
+	        <url>http://www.echoroukonline.com/ara/feed/enquetes/index.1.rss</url>
+	    </category>
+		<category name="روبورتاجات" id="12">
+	        <url>http://www.echoroukonline.com/ara/feed/enquetes/reportages/index.1.rss</url>
+	    </category>
+		<category name="حوارات" id="13">
+	        <url>http://www.echoroukonline.com/ara/feed/interviews/index.1.rss</url>
+	    </category>
+		<category name="أوراق حضارية" id="14">
+	        <url>http://www.echoroukonline.com/ara/feed/din_wa_donia/index.1.rss</url>
+	    </category>
+		<category name="ملفات" id="15">
+	        <url>http://www.echoroukonline.com/ara/feed/dossiers/index.1.rss</url>
+	    </category>
+		<category name="الرأي" id="16">
+	        <url>http://www.echoroukonline.com/ara/feed/opinion/index.1.rss</url>
+	    </category>
+	</site>
+</rsschannel>

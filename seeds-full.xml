@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seeds>
+
+    <site name="رويترز" url="http://ara.reuters.com/">
+        <category name="الشرق الأوسط" id="0" path="reuters/topNews">
+            <url>http://ara.reuters.com/news/archive/topNews?date=</url>
+        </category>
+        <category name="الاقتصاد" id="1" path="reuters/businessNews">
+            <url>http://ara.reuters.com/news/archive/businessNews?date=</url>
+        </category>
+        <category name="العالم" id="2" path="reuters/worldNews">
+            <url>http://ara.reuters.com/news/archive/worldNews?date=</url>
+        </category>
+        <category name="الرياضة" id="3" path="reuters/sportsNews">
+            <url>http://ara.reuters.com/news/archive/sportsNews?date=</url>
+        </category>
+        <category name="منوعات" id="4" path="reuters/entertainmentNews">
+            <url>http://ara.reuters.com/news/archive/entertainmentNews?date=</url>
+        </category>
+        <category name="العلوم والبيئة" id="5" path="reuters/internetNews">
+            <url>http://ara.reuters.com/news/archive/internetNews?date=</url>
+        </category>
+    </site>
+    
+    <site name="AFP" url="http://www.france24.com/ar/">
+        <category name="الشرق الأوسط" id="6" path="afp/middle-east">
+            <url>http://www.france24.com/ar/search/sinequa_search/middle-east?page=0</url>
+        </category>
+        <category name="أفريقيا" id="7" path="afp/africa">
+            <url>http://www.france24.com/ar/search/sinequa_search/africa?page=0</url>
+        </category>
+        <category name="أوروبا" id="8" path="afp/europe">
+            <url>http://www.france24.com/ar/search/sinequa_search/europe?page=0</url>
+        </category>
+        <category name="أسيا" id="9" path="afp/asia-pacific">
+            <url>http://www.france24.com/ar/search/sinequa_search/asia-pacific?page=0</url>
+        </category>
+        <category name="أمريكا" id="10" path="afp/americas">
+            <url>http://www.france24.com/ar/search/sinequa_search/americas?page=0</url>
+        </category>
+        <category name="فرنسا" id="11" path="afp/france">
+            <url>http://www.france24.com/ar/search/sinequa_search/france?page=0</url>
+        </category>
+        <category name="رياضة" id="12" path="afp/sports">
+            <url>http://www.france24.com/ar/search/sinequa_search/sports?page=0</url>
+        </category>
+        <category name="ثقافة" id="13" path="afp/culture">
+            <url>http://www.france24.com/ar/search/sinequa_search/culture?page=0</url>
+        </category>
+        <category name="افتصاد" id="14" path="afp/business">
+            <url>http://www.france24.com/ar/search/sinequa_search/business?page=0</url>
+        </category>
+    </site>
+    
+    <site name="BBC" url="http://www.bbc.co.uk/arabic/">
+        <category name="الشرق الأوسط" id="15" path="bbc/middleeast">
+            <url>http://search.bbc.co.uk/search?scope=arabic&amp;tab=arabic&amp;q=middleeast&amp;start=1</url>
+        </category>
+        <category name="العالم" id="16" path="bbc/worldnews">
+            <url>http://search.bbc.co.uk/search?scope=arabic&amp;tab=arabic&amp;q=worldnews&amp;start=1</url>
+        </category>
+        <category name="اقتصاد وأعمال" id="17" path="bbc/business">
+            <url>http://search.bbc.co.uk/search?scope=arabic&amp;tab=arabic&amp;q=business&amp;start=1</url>
+        </category>
+        <category name="منوعات" id="18" path="bbc/artandculture">
+            <url>http://search.bbc.co.uk/search?scope=arabic&amp;tab=arabic&amp;q=artandculture&amp;start=1</url>
+        </category>
+        <category name="علوم وتكنولوجيا" id="19" path="bbc/scienceandtech">
+            <url>http://search.bbc.co.uk/search?scope=arabic&amp;tab=arabic&amp;q=scienceandtech&amp;start=1</url>
+        </category>
+        <category name="الرياضة" id="20" path="bbc/sports">
+            <url>http://search.bbc.co.uk/search?scope=arabic&amp;tab=arabic&amp;q=sports&amp;start=1</url>
+        </category>
+    </site>
+
+    <site name="Xinhua" url="http://arabic.news.cn/">
+        <category name="التقارير والتحليلات" id="21" path="xinhua/speak">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111479</url>
+        </category>
+        <category name="أخبار رئيسية اليوم" id="22" path="xinhua/ym">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111480</url>
+        </category>
+        <category name="السياحة والبيئة" id="23" path="xinhua/environment">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111482</url>
+        </category>
+        <category name="الثقافة والتعليم" id="24" path="xinhua/culture">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111483</url>
+        </category>
+        <category name="العلوم والصحة" id="25" path="xinhua/science">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111484</url>
+        </category>
+        <category name="الرياضة" id="26" path="xinhua/sports">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111485</url>
+        </category>
+        <category name="الاقتصاد" id="27" path="xinhua/economy">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111486</url>
+        </category>
+        <category name="الصين والعالم العربي" id="28" path="xinhua/chinaarabic">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111487</url>
+        </category>
+        <category name="الشرق الأوسط" id="29" path="xinhua/arabic">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111488</url>
+        </category>
+        <category name="العالم" id="30" path="xinhua/world">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111489</url>
+        </category>
+        <category name="الصين" id="31" path="xinhua/china">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111490</url>
+        </category>
+    </site>
+    
+    <site name="قناة العربية" url="http://www.alarabiya.net/">
+        <category name="الأخبار" id="32" path="alarabiya/News">
+            <url>http://www.alarabiya.net/archive.php?offset=0&amp;content_type=Articles&amp;web_sec_code=News</url>
+        </category>
+        <category name="السياسة" id="33" path="alarabiya/Politics">
+            <url>http://www.alarabiya.net/archive.php?offset=0&amp;content_type=Articles&amp;web_sec_code=Politics</url>
+        </category>
+        <category name="الرياضة" id="34" path="alarabiya/Sports">
+            <url>http://www.alarabiya.net/archive.php?offset=0&amp;content_type=Articles&amp;web_sec_code=Sports</url>
+        </category>
+    </site>
+    
+    <site name="الشروق اليومي" url="http://www.echoroukonline.com/">
+        <category name="الوطني" id="35" path="echoroukonline/national">
+            <url>http://www.echoroukonline.com/ara/feed/national/index.1.rss</url>
+        </category>
+        <category name="الإقتصاد" id="36" path="echoroukonline/economie">
+            <url>http://www.echoroukonline.com/ara/feed/economie/index.1.rss</url>
+        </category>
+        <category name="الرياضة" id="37" path="echoroukonline/sports">
+            <url>http://www.echoroukonline.com/ara/feed/sports/index.1.rss</url>
+        </category>
+        <category name="الدولي" id="38" path="echoroukonline/international">
+            <url>http://www.echoroukonline.com/ara/feed/international/index.1.rss</url>
+        </category>
+        <category name="الفني" id="39" path="echoroukonline/arts">
+            <url>http://www.echoroukonline.com/ara/feed/arts/index.1.rss</url>
+        </category>
+        <category name="ثقافة" id="40" path="echoroukonline/culture">
+            <url>http://www.echoroukonline.com/ara/feed/culture/index.1.rss</url>
+        </category>
+        <category name="قضايا المجتمع" id="41" path="echoroukonline/social">
+            <url>http://www.echoroukonline.com/ara/feed/social/index.1.rss</url>
+        </category>
+        <category name="أوراق حضارية" id="42" path="echoroukonline/din_wa_donia">
+            <url>http://www.echoroukonline.com/ara/feed/din_wa_donia/index.1.rss</url>
+        </category>
+    </site>
+    
+    <site name="الخبر" url="http://www.elkhabar.com/">
+        <category name="سياسة" id="43" path="elkhabar/politique">
+            <url>http://www.elkhabar.com/quotidien/?idc=30&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="اقتصاد" id="44" path="elkhabar/economie">
+            <url>http://www.elkhabar.com/quotidien/?idc=49&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="أخبار الوطن" id="45" path="elkhabar/national">
+            <url>http://www.elkhabar.com/quotidien/?idc=55&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="العالم" id="46" path="elkhabar/international">
+            <url>http://www.elkhabar.com/quotidien/?idc=31&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="الجزائر العميقة" id="47" path="elkhabar/algerie">
+            <url>http://www.elkhabar.com/quotidien/?idc=34&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="رياضة" id="48" path="elkhabar/sports">
+            <url>http://www.elkhabar.com/quotidien/?idc=33&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="أحوال الناس" id="49" path="elkhabar/social">
+            <url>http://www.elkhabar.com/quotidien/?idc=36&amp;key=0&amp;date_insert=</url>
+        </category>
+        <category name="تقافة" id="50" path="elkhabar/culture">
+            <url>http://www.elkhabar.com/quotidien/?idc=32&amp;key=0&amp;date_insert=</url>
+        </category>
+    </site>
+    
+    <site name="reuters - fr" url="http://fr.reuters.com/">
+        <category name="À la une" id="51" path="reuters-fr/topNews">
+            <url>http://fr.reuters.com/news/archive/topNews?date=</url>
+        </category>
+        <category name="Économie" id="52" path="reuters-fr/businessNews">
+            <url>http://fr.reuters.com/news/archive/businessNews?date=</url>
+        </category>
+        <category name="Sport" id="53" path="reuters-fr/sportsNews">
+            <url>http://fr.reuters.com/news/archive/sportsNews?date=</url>
+        </category>
+        <category name="Technologie" id="54" path="reuters-fr/technologyNews">
+            <url>http://fr.reuters.com/news/archive/technologyNews?date=</url>
+        </category>
+        <category name="Insolite" id="55" path="reuters-fr/oddlyEnoughNews">
+            <url>http://fr.reuters.com/news/archive/oddlyEnoughNews?date=</url>
+        </category>
+    </site>
+    
+    <site name="reuters - en" url="http://www.reuters.com/">
+        <category name="Top News" id="56" path="reuters-en/topNews">
+            <url>http://www.reuters.com/news/archive/newsOne?date=</url>
+        </category>
+        <category name="Business" id="57" path="reuters-en/businessNews">
+            <url>http://www.reuters.com/news/archive/ousivMolt?date=</url>
+        </category>
+        <category name="World" id="58" path="reuters-en/worldNews">
+            <url>http://www.reuters.com/news/archive/worldNews?date=</url>
+        </category>
+        <category name="Politics" id="59" path="reuters-en/politicsNews">
+            <url>http://www.reuters.com/news/archive/politicsNews?date=</url>
+        </category>
+        <category name="Sports" id="60" path="reuters-en/sportsNews">
+            <url>http://www.reuters.com/news/archive/sportsNews?date=</url>
+        </category>
+        <category name="Technology" id="61" path="reuters-en/technologyNews">
+            <url>http://www.reuters.com/news/archive/technologyNews?date=</url>
+        </category>
+        <category name="Deals" id="62" path="reuters-en/innovationNews">
+            <url>http://www.reuters.com/news/archive/innovationNews?date=</url>
+        </category>
+        <category name="Health" id="63" path="reuters-en/healthNews">
+            <url>http://www.reuters.com/news/archive/healthNews?date=</url>
+        </category>
+        <category name="Science" id="64" path="reuters-en/scienceNews">
+            <url>http://www.reuters.com/news/archive/scienceNews?date=</url>
+        </category>
+        <category name="Entertainment" id="65" path="reuters-en/entertainmentNews">
+            <url>http://www.reuters.com/news/archive/entertainmentNews?date=</url>
+        </category>
+        <category name="Deals" id="66" path="reuters-en/innovationNews">
+            <url>http://www.reuters.com/news/archive/innovationNews?date=</url>
+        </category>
+    </site>
+    
+    <site name="AFP - fr" url="http://www.france24.com/fr/">
+        <category name="Moyen-Orient" id="67" path="afp-fr/moyen-orient">
+            <url>http://www.france24.com/fr/search/sinequa_search/moyen-orient?page=0</url>
+        </category>
+        <category name="Afrique" id="68" path="afp-fr/afrique">
+            <url>http://www.france24.com/fr/search/sinequa_search/afrique?page=0</url>
+        </category>
+        <category name="Europe" id="69" path="afp-fr/europe">
+            <url>http://www.france24.com/fr/search/sinequa_search/europe?page=0</url>
+        </category>
+        <category name="Asie-Pacifique" id="70" path="afp-fr/asie-pacifique">
+            <url>http://www.france24.com/fr/search/sinequa_search/asie-pacifique?page=0</url>
+        </category>
+        <category name="Amériques" id="71" path="afp-fr/ameriques">
+            <url>http://www.france24.com/fr/search/sinequa_search/ameriques?page=0</url>
+        </category>
+        <category name="France" id="72" path="afp-fr/france">
+            <url>http://www.france24.com/fr/search/sinequa_search/france?page=0</url>
+        </category>
+        <category name="Sports" id="73" path="afp-fr/sports">
+            <url>http://www.france24.com/fr/search/sinequa_search/sports?page=0</url>
+        </category>
+        <category name="Culture" id="74" path="afp-fr/culture">
+            <url>http://www.france24.com/fr/search/sinequa_search/culture?page=0</url>
+        </category>
+        <category name="Éco / Tech" id="75" path="afp-fr/economie">
+            <url>http://www.france24.com/fr/search/sinequa_search/economie?page=0</url>
+        </category>
+        <category name="Sciences" id="76" path="afp-fr/sciences">
+            <url>http://www.france24.com/fr/search/sinequa_search/sciences?page=0</url>
+        </category>
+        <category name="Santé" id="77" path="afp-fr/sante">
+            <url>http://www.france24.com/fr/search/sinequa_search/sante?page=0</url>
+        </category>
+    </site>
+    
+    <site name="AFP - en" url="http://www.france24.com/en/">
+        <category name="Middle-East" id="78" path="afp-en/middle-east">
+            <url>http://www.france24.com/en/search/sinequa_search/middle-east?page=0</url>
+        </category>
+        <category name="Africa" id="79" path="afp-en/africa">
+            <url>http://www.france24.com/en/search/sinequa_search/africa?page=0</url>
+        </category>
+        <category name="Europe" id="80" path="afp-en/europe">
+            <url>http://www.france24.com/en/search/sinequa_search/europe?page=0</url>
+        </category>
+        <category name="Asia-Pacific" id="81" path="afp-en/asia-pacific">
+            <url>http://www.france24.com/en/search/sinequa_search/asia-pacific?page=0</url>
+        </category>
+        <category name="Americas" id="82" path="afp-en/americas">
+            <url>http://www.france24.com/en/search/sinequa_search/americas?page=0</url>
+        </category>
+        <category name="France" id="83" path="afp-en/france">
+            <url>http://www.france24.com/en/search/sinequa_search/france?page=0</url>
+        </category>
+        <category name="Sport" id="84" path="afp-en/sport">
+            <url>http://www.france24.com/en/search/sinequa_search/sport?page=0</url>
+        </category>
+        <category name="Culture" id="85" path="afp-en/culture">
+            <url>http://www.france24.com/en/search/sinequa_search/culture?page=0</url>
+        </category>
+        <category name="Business / Tech" id="86" path="afp-en/business">
+            <url>http://www.france24.com/en/search/sinequa_search/business?page=0</url>
+        </category>
+        <category name="Sciences" id="87" path="afp-en/sciences">
+            <url>http://www.france24.com/en/search/sinequa_search/sciences?page=0</url>
+        </category>
+        <category name="Health" id="88" path="afp-en/health">
+            <url>http://www.france24.com/en/search/sinequa_search/health?page=0</url>
+        </category>
+    </site>
+
+</seeds>

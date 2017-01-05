@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seeds>
+
+    <site name="AFP - fr" url="http://www.france24.com/fr/">
+        <category name="Moyen-Orient" id="0" path="afp-fr/moyen-orient">
+            <url>http://www.france24.com/fr/search/sinequa_search/moyen-orient?page=0</url>
+        </category>
+        <category name="Afrique" id="1" path="afp-fr/afrique">
+            <url>http://www.france24.com/fr/search/sinequa_search/afrique?page=0</url>
+        </category>
+        <category name="Europe" id="2" path="afp-fr/europe">
+            <url>http://www.france24.com/fr/search/sinequa_search/europe?page=0</url>
+        </category>
+        <category name="Asie-Pacifique" id="3" path="afp-fr/asie-pacifique">
+            <url>http://www.france24.com/fr/search/sinequa_search/asie-pacifique?page=0</url>
+        </category>
+        <category name="Amériques" id="4" path="afp-fr/ameriques">
+            <url>http://www.france24.com/fr/search/sinequa_search/ameriques?page=0</url>
+        </category>
+        <category name="France" id="5" path="afp-fr/france">
+            <url>http://www.france24.com/fr/search/sinequa_search/france?page=0</url>
+        </category>
+        <category name="Sports" id="6" path="afp-fr/sports">
+            <url>http://www.france24.com/fr/search/sinequa_search/sports?page=0</url>
+        </category>
+        <category name="Culture" id="7" path="afp-fr/culture">
+            <url>http://www.france24.com/fr/search/sinequa_search/culture?page=0</url>
+        </category>
+        <category name="Éco / Tech" id="8" path="afp-fr/economie">
+            <url>http://www.france24.com/fr/search/sinequa_search/economie?page=0</url>
+        </category>
+        <category name="Sciences" id="9" path="afp-fr/sciences">
+            <url>http://www.france24.com/fr/search/sinequa_search/sciences?page=0</url>
+        </category>
+        <category name="Santé" id="10" path="afp-fr/sante">
+            <url>http://www.france24.com/fr/search/sinequa_search/sante?page=0</url>
+        </category>
+    </site>
+    
+    <site name="AFP - en" url="http://www.france24.com/en/">
+        <category name="Middle-East" id="11" path="afp-en/middle-east">
+            <url>http://www.france24.com/en/search/sinequa_search/middle-east?page=0</url>
+        </category>
+        <category name="Africa" id="12" path="afp-en/africa">
+            <url>http://www.france24.com/en/search/sinequa_search/africa?page=0</url>
+        </category>
+        <category name="Europe" id="13" path="afp-en/europe">
+            <url>http://www.france24.com/en/search/sinequa_search/europe?page=0</url>
+        </category>
+        <category name="Asia-Pacific" id="14" path="afp-en/asia-pacific">
+            <url>http://www.france24.com/en/search/sinequa_search/asia-pacific?page=0</url>
+        </category>
+        <category name="Americas" id="15" path="afp-en/americas">
+            <url>http://www.france24.com/en/search/sinequa_search/americas?page=0</url>
+        </category>
+        <category name="France" id="16" path="afp-en/france">
+            <url>http://www.france24.com/en/search/sinequa_search/france?page=0</url>
+        </category>
+        <category name="Sport" id="17" path="afp-en/sport">
+            <url>http://www.france24.com/en/search/sinequa_search/sport?page=0</url>
+        </category>
+        <category name="Culture" id="18" path="afp-en/culture">
+            <url>http://www.france24.com/en/search/sinequa_search/culture?page=0</url>
+        </category>
+        <category name="Business / Tech" id="19" path="afp-en/business">
+            <url>http://www.france24.com/en/search/sinequa_search/business?page=0</url>
+        </category>
+        <category name="Sciences" id="20" path="afp-en/sciences">
+            <url>http://www.france24.com/en/search/sinequa_search/sciences?page=0</url>
+        </category>
+        <category name="Health" id="21" path="afp-en/health">
+            <url>http://www.france24.com/en/search/sinequa_search/health?page=0</url>
+        </category>
+    </site>
+    
+    <site name="AFP - ar" url="http://www.france24.com/ar/">
+        <category name="الشرق الأوسط" id="22" path="afp-ar/middle-east">
+            <url>http://www.france24.com/ar/search/sinequa_search/middle-east?page=0</url>
+        </category>
+        <category name="أفريقيا" id="23" path="afp-ar/africa">
+            <url>http://www.france24.com/ar/search/sinequa_search/africa?page=0</url>
+        </category>
+        <category name="أوروبا" id="24" path="afp-ar/europe">
+            <url>http://www.france24.com/ar/search/sinequa_search/europe?page=0</url>
+        </category>
+        <category name="أسيا" id="25" path="afp-ar/asia-pacific">
+            <url>http://www.france24.com/ar/search/sinequa_search/asia-pacific?page=0</url>
+        </category>
+        <category name="أمريكا" id="26" path="afp-ar/americas">
+            <url>http://www.france24.com/ar/search/sinequa_search/americas?page=0</url>
+        </category>
+        <category name="فرنسا" id="27" path="afp-ar/france">
+            <url>http://www.france24.com/ar/search/sinequa_search/france?page=0</url>
+        </category>
+        <category name="رياضة" id="28" path="afp-ar/sports">
+            <url>http://www.france24.com/ar/search/sinequa_search/sports?page=0</url>
+        </category>
+        <category name="ثقافة" id="29" path="afp-ar/culture">
+            <url>http://www.france24.com/ar/search/sinequa_search/culture?page=0</url>
+        </category>
+        <category name="افتصاد" id="30" path="afp-ar/business">
+            <url>http://www.france24.com/ar/search/sinequa_search/business?page=0</url>
+        </category>
+    </site>
+
+</seeds>

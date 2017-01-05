@@ -1,0 +1,72 @@
+2010-06-06 Amine Roukh <amineroukh@gmail.com>
+
+* write articles in UFT8 - Done
+* view articles in Text/HTML mode  - Done
+* add alarabiya.net - Done
+* add reuters.com - Done
+* add search edit - Done
+* add years combobox - Done
+* add double click on title open web browser - Done
+* show local article before read from net when item activated - Done
+* add visual effect on fetching (blue/red color) - Done
+* save application settings - Done
+* fix encode problem in some OS - Done
+* fix memory leak bug - Done
+* fix bug in saved article's id - Done
+* fix bug in RTL direction - Done
+* add sites icons - Done
+* fix HTML article view in reuters.com and alarabiya.net - Done
+* add navigation actions and shortcuts - Done
+* ask before close when fetching - Done
+* fix fetching from echoroukonline.com - Done
+* add elkhabar.com - Done
+* add context menu and menu list for titles view containing:
+    * open in web browser - Done
+    * copy article link - Done
+    * open file - Done
+    * open file location - Done
+    * delete article - Done
+* add context menu in sites view containing:
+    * open in web browser - Done
+    * fetch selected - Done
+    * fetch site - Done
+* separate corpus in different directory for every site - Done
+* use "constants.h" file to get sites name - Done
+* add search bar in articles viewer - Done
+* add search dialog in all the corpus - Done
+* add afp, bbc, xinhua sites - Done
+* show color (gray) in not fetched articles - Done
+* fix bug in continue fetch - Done
+* add purge dialog by date - Done
+* change items name from integer (0,1,2...) to "constant.h" - Done
+* change "rsschannel.xml" file name to "seeds.xml" - Done
+* move "<path>" from "data.xml" to "seeds.xml" - Done
+* move fetch functions to separate files - Done
+* support filtering by date (reimpl QSortFilterProxyModel class, filterAcceptsRow()) - Done
+* add search by date option - Done
+* identify the webcrawler to the sites (User-agent) - Done
+* add reuters-fr, reuters-en, afp-fr, afp-en - Done
+* fix STATUS in fetchCorrupt() - Done
+* restore the category and the article after exit - Done
+* add configuration dialog containing:
+    * general tab, appearance tab, crawling tab, connection tab - Done
+    * change font - Done
+    * fetch on start - Done
+    * RTL/LTR option - Done
+    * remember last cat/art - Done
+    * change user-agent - Done
+    * change codec - Done
+    * support proxy network - Done
+* fix elkhabar.com and reuters.com fetching depth (10 try) - Done
+* set a timeout fun in fetching() - Done
+* add save as fun in findDialog - Done
+* add language support - Done
+* improve performance by saving data.xml only when changed - Done
+* rename app from "Web Crawler" to "Stories Crawler" (WebCrawler -> storiescrawler)
+
+* handle fetching errors
+* add archive action to zip all data/ into data.zip
+* click on site (sitesWidget) show all cat articles
+* support threads
+* add download speed
+* try to detect connection status

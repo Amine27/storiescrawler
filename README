@@ -1,0 +1,66 @@
+Stories Crawler
+-------------------
+Stories Crawler is a cross platform Web Crawler that's create a linguistics corpus for 
+Arabic, english and french languages with many other features.
+
+
+Requirements
+-------------------
+ 
+* Qt4
+     - On Debian or Ubuntu, install package 'libqt4-gui' and it's dependencies.
+     - On Windows install qt-sdk package (http://qt.nokia.com/downloads).
+
+
+Compiling
+-------------------
+Use QtCreator from qt-sdk or:
+
+* On Linux:
+    cd to/project/path
+    qmake
+    make
+    
+* On Windows:
+    run Qt Command Prompt
+    cd to/project/path
+    qmake
+    mingw32-make
+
+
+Running Stories Crawler
+-------------------
+
+If you have all the needed requirements installed, just move Stories Crawler somewhere and, in a 
+terminal, cd to it's folder, and type '.storiescrawler-linux' in order to execute it, Or just double
+clicking in 'storiescrawler-win.exe' in windows.
+
+The file seeds.xml contain the current sites, rename seeds-afp.xml to seeds.xml for AFP sites for example.
+
+
+Third-party
+---------------------
+
+I took the icons from:
+    * Oxygen icons
+      Url: http://www.oxygen-icons.org/
+      License: LGPL
+      
+
+Troubleshooting
+--------------------
+
+If you have any problem with Stories Crawler don't hesitate to contact the authors.
+
+
+Authors
+--------------------
+
+Amine Roukh <amineroukh@gmail.com>
+
+    Development and Graphical User Interface design.
+
+Abdelkdir Sadouki
+
+    Development.
+     

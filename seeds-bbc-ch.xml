@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seeds>
+    
+    <site name="BBC" url="http://www.bbc.co.uk/arabic/">
+        <category name="الشرق الأوسط" id="0" path="bbc/middleeast">
+            <url>http://search.bbc.co.uk/search?scope=arabic&amp;tab=arabic&amp;q=middleeast&amp;start=1</url>
+        </category>
+        <category name="العالم" id="1" path="bbc/worldnews">
+            <url>http://search.bbc.co.uk/search?scope=arabic&amp;tab=arabic&amp;q=worldnews&amp;start=1</url>
+        </category>
+        <category name="اقتصاد وأعمال" id="2" path="bbc/business">
+            <url>http://search.bbc.co.uk/search?scope=arabic&amp;tab=arabic&amp;q=business&amp;start=1</url>
+        </category>
+        <category name="منوعات" id="3" path="bbc/artandculture">
+            <url>http://search.bbc.co.uk/search?scope=arabic&amp;tab=arabic&amp;q=artandculture&amp;start=1</url>
+        </category>
+        <category name="علوم وتكنولوجيا" id="4" path="bbc/scienceandtech">
+            <url>http://search.bbc.co.uk/search?scope=arabic&amp;tab=arabic&amp;q=scienceandtech&amp;start=1</url>
+        </category>
+        <category name="الرياضة" id="5" path="bbc/sports">
+            <url>http://search.bbc.co.uk/search?scope=arabic&amp;tab=arabic&amp;q=sports&amp;start=1</url>
+        </category>
+    </site>
+
+    <site name="Xinhua" url="http://arabic.news.cn/">
+        <category name="التقارير والتحليلات" id="6" path="xinhua/speak">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111479</url>
+        </category>
+        <category name="أخبار رئيسية اليوم" id="7" path="xinhua/ym">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111480</url>
+        </category>
+        <category name="السياحة والبيئة" id="8" path="xinhua/environment">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111482</url>
+        </category>
+        <category name="الثقافة والتعليم" id="9" path="xinhua/culture">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111483</url>
+        </category>
+        <category name="العلوم والصحة" id="10" path="xinhua/science">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111484</url>
+        </category>
+        <category name="الرياضة" id="11" path="xinhua/sports">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111485</url>
+        </category>
+        <category name="الاقتصاد" id="12" path="xinhua/economy">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111486</url>
+        </category>
+        <category name="الصين والعالم العربي" id="13" path="xinhua/chinaarabic">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111487</url>
+        </category>
+        <category name="الشرق الأوسط" id="14" path="xinhua/arabic">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111488</url>
+        </category>
+        <category name="العالم" id="15" path="xinhua/world">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111489</url>
+        </category>
+        <category name="الصين" id="16" path="xinhua/china">
+            <url>http://search.news.cn/mb/language/arabic/search/search.jspa?pno=1&amp;nodetype=3&amp;nodeid=111490</url>
+        </category>
+    </site>
+
+</seeds>
